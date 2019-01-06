@@ -3,3 +3,8 @@ Mini sumo robot using Arduino
 
 # Why repo?
 Tests, progress to document my project.
+
+# Robot look
+
+![img_1183](https://user-images.githubusercontent.com/36841282/50695464-0d146280-103d-11e9-99ce-c981baf8e53b.JPG)
+![img_1171](https://user-images.githubusercontent.com/36841282/50695471-11408000-103d-11e9-8823-e2ade0d22581.JPG)
