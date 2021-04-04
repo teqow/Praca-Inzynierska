@@ -3,9 +3,6 @@ Mini sumo robot using Arduino.
 The code and presentations must be in Polish, that was a condition.
 If you have questions please contact me.
 
-# Why repo?
-Tests, progress to document my project.
-
 Operation algorithm in the finish folder. 
 
 # Robot look
