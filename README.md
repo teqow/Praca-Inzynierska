@@ -1,5 +1,7 @@
-# Praca-Inzynierska
-Mini sumo robot using Arduino
+# My Bachelor of Engineering thesis
+Mini sumo robot using Arduino.
+The code and presentations must be in Polish, that was a condition.
+If you have questions please contact me.
 
 # Why repo?
 Tests, progress to document my project.
